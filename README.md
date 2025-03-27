@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Lance0567
 - 👀 I’m interested in learning everything about programming so that I can figure what I want to focus on, as well as to know my capabilities.
-- 🌱 I’m currently learning java and delphi language. 
+- 🌱 I’m currently learning web development and delphi language. 
 - 💞️ I’m looking to collaborate on professionals ...
-- 📫 How to reach me, you may contact me using this number: 09560086193 ...
+- 📫 How to reach me, you may contact me by emailing me: esurenalance08@gmail.com ...
 
 - Check out my portfolio: [Lance's Portfolio](https://lanceesurena-portfolio.vercel.app/#home)
 
