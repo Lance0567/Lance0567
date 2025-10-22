@@ -22,15 +22,15 @@ Always mixing tools — from classic frameworks to cutting-edge tech — to buil
 🧠 **Advanced Automated Collating and Stapling Mechanism** — My university research project; a smart machine that automates collation and stapling of documents using Arduino and IR sensors.  
 📊 **SGLGB Record Management System** — Oracle APEX system used for barangay records and performance reporting (MLGOO to National Level).  
 🕹️ **Employee Monitoring System Prototype** — Combines Arduino GIGA + ESP32 with Blynk for real-time attendance tracking.  
-🌦️ **Smart Bin & Solar Projects** — Compact prototypes exploring IoT automation and renewable power integration.  
-🔬 **AI X-ray Analysis (In Progress)** — Machine learning project for detecting pneumonia using chest X-rays.  
+🌊 **Boat Emergency Response System**  
+A prototype using **Arduino Uno**, **GSM**, **NEO GPS**, **LoRa**, and **Water Sensor modules** — designed to send emergency alerts with location tracking between boats and base stations for maritime rescue operations.
 
 ---
 
 # 🌱 Currently Learning
 - Full-stack web development  
 - AI and machine learning for automation and vision systems  
-- More advanced integration between software (Delphi/web) and hardware (Arduino/ESP32)  
+- More advanced integration between software (Delphi/web) and hardware (Arduino/ESP32, Raspberry pi)  
 
 ---
 
@@ -41,9 +41,9 @@ I also enjoy helping others get started with **Delphi**, **Arduino**, and **IoT*
 ---
 
 # 📫 Reach Me
-- ✉️ **Email:** [esurenalance08@gmail.com](mailto:esurenalance08@gmail.com)  
+- ✉️ **Email:** [lanceesurena09@gmail.com](mailto:lanceesurena09@gmail.com)  
 - 🌐 **Portfolio:** [lanceesurena-portfolio.vercel.app](https://lanceesurena-portfolio.vercel.app/#home)  
-- 💼 **LinkedIn:** *(add your LinkedIn here if you’d like)*  
+- 💼 **LinkedIn:** *[add your LinkedIn here if you’d like](https://www.linkedin.com/in/lance-madel-esure%C3%B1a-ba4871282/)*  
 
 ---
 
