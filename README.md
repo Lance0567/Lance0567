@@ -43,7 +43,7 @@ I also enjoy helping others get started with **Delphi**, **Arduino**, and **IoT*
 # 📫 Reach Me
 - ✉️ **Email:** [lanceesurena09@gmail.com](mailto:lanceesurena09@gmail.com)  
 - 🌐 **Portfolio:** [lanceesurena-portfolio.vercel.app](https://lanceesurena-portfolio.vercel.app/#home)  
-- 💼 **LinkedIn:** *[Click here](https://www.linkedin.com/in/lance-madel-esure%C3%B1a-ba4871282/)*  
+- 💼 **LinkedIn:** *[LinkedIn](https://www.linkedin.com/in/lance-madel-esure%C3%B1a-ba4871282/)*  
 
 ---
 
