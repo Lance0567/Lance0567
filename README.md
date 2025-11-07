@@ -20,7 +20,7 @@ Always mixing tools from classic frameworks to cutting-edge tech to build the mo
 
 # 💡 Projects
 🧠 **Advanced Automated Collating and Stapling Mechanism** - My university research project; a smart machine that automates collation and stapling of documents using Arduino and IR sensors.  
-- 📊 **SGLGB Record Management System** - Oracle APEX system used for barangay records and performance reporting (MLGOO to National Level).  
+- 📊 **SGLGB Record Management System** - Airtable system used for barangay records and performance reporting (MLGOO to National Level).  
 - 🕹️ **Employee Monitoring System Prototype** - Combines Arduino GIGA + ESP32 with Blynk for real-time attendance tracking.  
 - 🌊 **Boat Emergency Response System** - A prototype using **Arduino Uno**, **GSM**, **NEO GPS**, **LoRa**, and **Water Sensor modules** - designed to send emergency alerts with location tracking between boats and base stations for maritime rescue operations.
   
