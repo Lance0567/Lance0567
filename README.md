@@ -2,7 +2,7 @@
 Hi! I'm **Lance Esurena** a developer, researcher, and hardware innovator from the Philippines 🇵🇭.  
 I love building things that merge **software and hardware** from web apps and database systems to Arduino-powered machines and IoT prototypes.  
 
-Professionally, I work with **Delphi**, **MySQL**, and **Automations**, but personally I love experimenting with **Arduino**, **Raspberry Pi**, and **ESP32** to bring my automation ideas to life.
+Professionally, I work with **Delphi**, ***Wordpress*, **MySQL**, and **Automations**, but personally I love experimenting with **Arduino**, **Raspberry Pi**, and **ESP32** to bring my automation ideas to life.
 
 ---
 
@@ -14,7 +14,7 @@ Always mixing tools from classic frameworks to cutting-edge tech to build the mo
 - 🧠 **Database:** MySQL, SQLite, Oracle APEX  
 - ⚙️ **Hardware / IoT:** Arduino Uno, Mega, ESP32, Raspberry Pi 4  
 - 🔌 **Prototyping Tools:** Blynk, Sensor Shield, Stepper & DC Motor Drivers, I2C LCDs  
-- 🧩 **Others:** Git, TablePlus, Figma, VS Code, Embarcadero RAD Studio  
+- 🧩 **Others:** Git, TablePlus, Wordpress, VS Code, Embarcadero RAD Studio  
 
 ---
 
